@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **dbproxy, microservices**
 
-- 💬 Ask me about **go, c++**
+- 💬 Ask me about **go, c++, AI**
 
 - 📫 How to reach me **hunjyer@gmail.com**
 
