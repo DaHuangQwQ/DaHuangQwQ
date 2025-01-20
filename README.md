@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DaHuang</h1>
 <h3 align="center">A passionate backend developer from Cn</h3>
 
-- 🌱 I’m currently learning **dbproxy, microservices**
+- 🌱 I’m currently learning **AI, Microservices**
 
 - 💬 Ask me about **go, c++, AI**
 
